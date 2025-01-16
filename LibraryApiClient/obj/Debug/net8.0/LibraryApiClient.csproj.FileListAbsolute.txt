@@ -1,0 +1,14 @@
+/Users/user/Documents/kutuphane/LibraryApiClient/bin/Debug/net8.0/LibraryApiClient
+/Users/user/Documents/kutuphane/LibraryApiClient/bin/Debug/net8.0/LibraryApiClient.deps.json
+/Users/user/Documents/kutuphane/LibraryApiClient/bin/Debug/net8.0/LibraryApiClient.runtimeconfig.json
+/Users/user/Documents/kutuphane/LibraryApiClient/bin/Debug/net8.0/LibraryApiClient.dll
+/Users/user/Documents/kutuphane/LibraryApiClient/bin/Debug/net8.0/LibraryApiClient.pdb
+/Users/user/Documents/kutuphane/LibraryApiClient/obj/Debug/net8.0/LibraryApiClient.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Documents/kutuphane/LibraryApiClient/obj/Debug/net8.0/LibraryApiClient.AssemblyInfoInputs.cache
+/Users/user/Documents/kutuphane/LibraryApiClient/obj/Debug/net8.0/LibraryApiClient.AssemblyInfo.cs
+/Users/user/Documents/kutuphane/LibraryApiClient/obj/Debug/net8.0/LibraryApiClient.csproj.CoreCompileInputs.cache
+/Users/user/Documents/kutuphane/LibraryApiClient/obj/Debug/net8.0/LibraryApiClient.dll
+/Users/user/Documents/kutuphane/LibraryApiClient/obj/Debug/net8.0/refint/LibraryApiClient.dll
+/Users/user/Documents/kutuphane/LibraryApiClient/obj/Debug/net8.0/LibraryApiClient.pdb
+/Users/user/Documents/kutuphane/LibraryApiClient/obj/Debug/net8.0/LibraryApiClient.genruntimeconfig.cache
+/Users/user/Documents/kutuphane/LibraryApiClient/obj/Debug/net8.0/ref/LibraryApiClient.dll
